@@ -13,3 +13,7 @@ Lab #4 SKLearn - submitted on 02/07/2023
 Lab #5 Decision Trees - submitted on 02/13/2023
 
 Lab #6 Working with Data - submitted on 02/23/2023
+
+Lab #7 Regression - submitted on 03/03/2023
+
+Lab #8 Clustering - submitted on 03/10/2023
