@@ -17,3 +17,7 @@ Lab #6 Working with Data - submitted on 02/23/2023
 Lab #7 Regression - submitted on 03/03/2023
 
 Lab #8 Clustering - submitted on 03/10/2023
+
+Lab #9 Bagging and Pasting - submitted on 03/13/2023
+
+Lab #10 XGBoost - submitted on 03/21/2023
