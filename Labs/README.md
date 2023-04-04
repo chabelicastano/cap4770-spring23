@@ -21,3 +21,5 @@ Lab #8 Clustering - submitted on 03/10/2023
 Lab #9 Bagging and Pasting - submitted on 03/13/2023
 
 Lab #10 XGBoost - submitted on 03/21/2023
+
+Lab #11 Intro to DL - submitted on 04/03/2023
