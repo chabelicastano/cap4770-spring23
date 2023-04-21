@@ -25,3 +25,5 @@ Lab #10 XGBoost - submitted on 03/21/2023
 Lab #11 Intro to DL - submitted on 04/03/2023
 
 Lab #12 CNN - submitted on 04/19/2023
+
+Lab #13 NLP - submitted on 04/20/2023
